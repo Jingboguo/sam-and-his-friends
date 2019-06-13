@@ -34,10 +34,10 @@ exports.DISCOURSE_RESOURCE_MAP = {
 /**
  * Currently, the design is store everyting into one hashset. One entity is map
  * to a field of the hashset:
- * Redis-cli: HSET sam-and-his-friends active-user:user.id JSON.stringify(user)
+ * Redis-cli: HSET guojingbo active-user:user.id JSON.stringify(user)
  */
 exports.REDIS_CONFIG = {
-	HASHSET_NAME: 'sam-and-his-friends',
+	HASHSET_NAME: 'guojingbo',
 	KEY_PREFIX: {
 		ACTIVE_USER: 'active-user',
 		SINGLE_POST: 'single-post',
