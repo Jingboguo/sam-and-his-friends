@@ -13,6 +13,5 @@ module.exports = {
 	'i18n-error-page-title': 'Sorry, seems the server is done',
 	'i18n-404-page-title': 'Oppos, the page does not exists',
 	'i18n-return-home': 'Back to home',
-	'i18n-content-is-hidden':
-		"Preview is not available, click 'continue reading'",
+	'i18n-content-is-hidden': 'Preview is not available',
 };
