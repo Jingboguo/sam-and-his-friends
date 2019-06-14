@@ -1,9 +1,9 @@
 exports.API = 'https://renzhen1024.com/';
 
 exports.about =
-	'Few words about Vivian. Wechat：GuojingboRutgers，Email：guojingbochina@gmail.com';
+	'Few words about Jingbo. Wechat：GuojingboRutgers，Email：guojingbochina@gmail.com';
 
-const description = 'One sentence about Vivian';
+const description = 'One sentence about Jingbo';
 exports.description = description;
 exports.creator = {
 	description,
@@ -16,7 +16,7 @@ exports.metaDescription = description;
 
 exports.lengthOfActiveUsersAtIndexPage = 5;
 
-const siteTitle = 'Vivian Guo';
+const siteTitle = 'Jingbo Guo';
 exports.siteTitle = siteTitle;
 
 exports.socialMedias = [
@@ -44,9 +44,9 @@ exports.rootCategory = 'Vivian';
 exports.subCategories = [
 	{
 		name: 'Industrial Engineering',
-		description: '关于 Industrial Engineering 分类',
+		description: 'About Industrial Engineering',
 	},
-	{ name: 'Data Science', description: '关于 Data Science 分类' },
+	{ name: 'Data Science', description: 'About Data Science' },
 ];
 
 exports.categories = {
@@ -79,7 +79,7 @@ const defalutMetaTagImageSrcStr =
 const fbCommonMetaTags = [
 	{
 		type: 'og:locale',
-		content: 'zh-CN',
+		content: 'en-us',
 	},
 	{
 		type: 'fb:app_id',
@@ -147,7 +147,7 @@ exports.setting = {
 	 * same file name. If not set, it will be default to user's browser setting,
 	 * in this case, user need to provide all possible translation string files.
 	 */
-	locale: 'zh-cn',
+	locale: 'en-us',
 	/**
 	 * When display full name, should family name comes first, some of the lange
 	 * has family name comes first like Chinese while other language has givename

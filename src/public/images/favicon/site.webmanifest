@@ -1,8 +1,8 @@
 {
-	"name": "北美山姆哥",
-	"short_name": "samandhisfriends",
-	"description": "一个赴美建厂及其自动化改造的亲历者",
-	"lang": "zh-Hans",
+	"name": "jingbo guo",
+	"short_name": "jingbo guo",
+	"description": "jingbo's personal website",
+	"lang": "en-us",
 	"theme_color": "#ffffff",
 	"background_color": "#ffffff",
 	"display": "standalone",
