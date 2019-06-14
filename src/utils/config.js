@@ -1,9 +1,9 @@
 exports.API = 'https://renzhen1024.com/';
 
 exports.about =
-	'Few words about Jingbo. Wechat：GuojingboRutgers，Email：guojingbochina@gmail.com';
+	'Dedicated in developing new models and algorithms for supervised learning, especially in non-linear regression and data fusion. Email: guojingbochina@gmail.com, Wechat: GuojingboRutgers';
 
-const description = 'One sentence about Jingbo';
+const description = 'PhD Student At Rutgers University';
 exports.description = description;
 exports.creator = {
 	description,
